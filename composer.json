@@ -1,0 +1,14 @@
+{
+    "name": "ikimasoft/demomo",
+    "description": "Description",
+    "require": {
+        "twig/twig": "*"
+    },
+    "authors": [
+        {
+            "name": "Ikimasoft",
+            "email": "yann@ikimasoft.fr"
+        }
+    ],
+    "minimum-stability": "stable"
+}
